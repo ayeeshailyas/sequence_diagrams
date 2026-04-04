@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="pVJP_KCFNhie2WGuk3bo">
+    <mxGraphModel dx="1111" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="User" vertex="1">
+          <mxGeometry height="888" width="35" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Booking Interface" vertex="1">
+          <mxGeometry height="888" width="150" x="319" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-3" parent="FfWec_dK_g47wcd1Nv8y-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="166" width="10" x="70" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-4" parent="FfWec_dK_g47wcd1Nv8y-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="166" width="10" x="70" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-5" parent="FfWec_dK_g47wcd1Nv8y-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="270" width="10" x="70" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="System Database" vertex="1">
+          <mxGeometry height="888" width="150" x="622" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-7" parent="FfWec_dK_g47wcd1Nv8y-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="52" width="10" x="70" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-8" parent="FfWec_dK_g47wcd1Nv8y-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="52" width="10" x="70" y="679" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Payment Gateway" vertex="1">
+          <mxGeometry height="888" width="150" x="822" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-10" parent="FfWec_dK_g47wcd1Nv8y-9" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="52" width="10" x="70" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-11" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-3" value="Select Movie &amp; Showtime">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-12" parent="FfWec_dK_g47wcd1Nv8y-11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="1" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-157" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-13" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-7" value="Query available seats">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-14" parent="FfWec_dK_g47wcd1Nv8y-13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="2" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-157" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-15" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-7" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-3" value="Return seat map">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-16" parent="FfWec_dK_g47wcd1Nv8y-15" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="3" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="141" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-17" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-1" value="Display available seats">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-18" parent="FfWec_dK_g47wcd1Nv8y-17" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="4" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="141" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-19" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-4" value="Select preferred seats">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-20" parent="FfWec_dK_g47wcd1Nv8y-19" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="5" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-157" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-21" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-6" value="Temporarily reserve seats">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-22" parent="FfWec_dK_g47wcd1Nv8y-21" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="6" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-157" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-23" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-4" value="Seats locked">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="559" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-24" parent="FfWec_dK_g47wcd1Nv8y-23" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="7" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="143" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-25" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-1" value="Prompt for payment details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-26" parent="FfWec_dK_g47wcd1Nv8y-25" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="8" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="141" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-27" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-5" value="Enter payment details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-28" parent="FfWec_dK_g47wcd1Nv8y-27" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="9" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-157" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-29" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-10" value="Process payment request">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-30" parent="FfWec_dK_g47wcd1Nv8y-29" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="10" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-257" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-31" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-10" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-5" value="Payment successful">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-32" parent="FfWec_dK_g47wcd1Nv8y-31" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="11" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="241" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-33" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-8" value="Finalize booking &amp; update status">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-34" parent="FfWec_dK_g47wcd1Nv8y-33" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="12" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-157" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-35" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-8" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-5" value="Booking confirmed">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-36" parent="FfWec_dK_g47wcd1Nv8y-35" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="13" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="141" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-37" edge="1" parent="1" source="FfWec_dK_g47wcd1Nv8y-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="FfWec_dK_g47wcd1Nv8y-1" value="Generate &amp; send ticket (E-ticket)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfWec_dK_g47wcd1Nv8y-38" parent="FfWec_dK_g47wcd1Nv8y-37" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="14" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="141" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
